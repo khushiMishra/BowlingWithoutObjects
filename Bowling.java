@@ -1,6 +1,6 @@
 // Bowling Program B1
 // Stephen Reader
-// 10552526
+
 
 //Imported
 import java.io.File;
@@ -18,7 +18,7 @@ public class Bowling
         File theFile = null;
 
 
-        // ***** USED FOR COMMAND LINE *****
+        // ***** USED FOR COMMAND LINE ***** MAC OSx
         // Steps:
         // 1. Go to correct directory
         // 2. write javac Bowling.java
